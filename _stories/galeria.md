@@ -1,7 +1,7 @@
 ---
 layout: ampgallery
-title: Testing gallery
-subtitle: Lots of images!
+title: MEM Suscripción
+subtitle: Resumen de la semana
 folder: tarjetas
 permalink: /galerias.html
 ---
