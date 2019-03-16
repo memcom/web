@@ -2,6 +2,6 @@
 layout: ampgallery
 title: MEM Suscripción
 subtitle: Resumen de la semana
-folder: tarjetas
+folder: images/tarjetas
 permalink: /galerias.html
 ---
