@@ -22,7 +22,7 @@ pages:
  - background: https://i.pinimg.com/564x/27/02/b3/2702b3034a6b5eabc461848a3e136cf7.jpg
  - layout: thirds
    middle: <h2>And then... darkness emerges</h2>  
- - background: /images/lefthanddarknesscover.jpg
+ - background: /assets/images/tarjetas/1.jpg
  - layout: thirds
    middle: '<h2>"To learn which questions are unanswerable, and not to answer them: this skill is most needful in times of stress and darkness."</h2>'
  - layout: vertical
